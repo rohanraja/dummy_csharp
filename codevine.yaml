@@ -16,3 +16,5 @@ csProjs:
     type: replace
     find_str: </Project>
     with_str: <ItemGroup><ProjectReference Include="/Users/rohan/code/codevine/recorder/CodeVineRecorder/CodeVineRecorder.csproj" /></ItemGroup></Project>
+
+language: csharp
