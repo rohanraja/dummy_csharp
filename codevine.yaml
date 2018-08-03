@@ -1,0 +1,18 @@
+fileChanges:
+  -
+    files: 
+      - packages.config
+    type: insert_lines_after
+    hint_string: <package id="Pack2" version=
+    new_lines: 
+      - <package id="StackExchange.Redis" version="1.2.6" as="PKG_REDIS" />
+      - <package id="CodeVineRecorder" version="1.0.18" targetFramework="net452" as="PKG_CODEVINE" />
+
+ 
+csProjs:
+ files:
+   - "**/*.csproj"
+ fileChanges:
+    type: replace
+    find_str: </Project>
+    with_str: <ItemGroup><ProjectReference Include="/Users/rohan/code/codevine/recorder/CodeVineRecorder/CodeVineRecorder.csproj" /></ItemGroup></Project>
