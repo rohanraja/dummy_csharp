@@ -1,0 +1,14 @@
+/Users/rohanraja/code/codevines_ide/cv1/adminPortal/tmp/repos/1/obj/Debug/netcoreapp2.0/5.csprojAssemblyReference.cache
+/Users/rohanraja/code/codevines_ide/cv1/adminPortal/tmp/repos/1/obj/Debug/netcoreapp2.0/5.csproj.CoreCompileInputs.cache
+/Users/rohanraja/code/codevines_ide/cv1/adminPortal/tmp/repos/1/obj/Debug/netcoreapp2.0/5.AssemblyInfoInputs.cache
+/Users/rohanraja/code/codevines_ide/cv1/adminPortal/tmp/repos/1/obj/Debug/netcoreapp2.0/5.AssemblyInfo.cs
+/Users/rohanraja/code/codevines_ide/cv1/adminPortal/tmp/repos/1/bin/Debug/netcoreapp2.0/5.deps.json
+/Users/rohanraja/code/codevines_ide/cv1/adminPortal/tmp/repos/1/bin/Debug/netcoreapp2.0/5.runtimeconfig.json
+/Users/rohanraja/code/codevines_ide/cv1/adminPortal/tmp/repos/1/bin/Debug/netcoreapp2.0/5.runtimeconfig.dev.json
+/Users/rohanraja/code/codevines_ide/cv1/adminPortal/tmp/repos/1/bin/Debug/netcoreapp2.0/5.dll
+/Users/rohanraja/code/codevines_ide/cv1/adminPortal/tmp/repos/1/bin/Debug/netcoreapp2.0/5.pdb
+/Users/rohanraja/code/codevines_ide/cv1/adminPortal/tmp/repos/1/bin/Debug/netcoreapp2.0/CodeVineRecorder.dll
+/Users/rohanraja/code/codevines_ide/cv1/adminPortal/tmp/repos/1/bin/Debug/netcoreapp2.0/CodeVineRecorder.pdb
+/Users/rohanraja/code/codevines_ide/cv1/adminPortal/tmp/repos/1/obj/Debug/netcoreapp2.0/5.csproj.CopyComplete
+/Users/rohanraja/code/codevines_ide/cv1/adminPortal/tmp/repos/1/obj/Debug/netcoreapp2.0/5.dll
+/Users/rohanraja/code/codevines_ide/cv1/adminPortal/tmp/repos/1/obj/Debug/netcoreapp2.0/5.pdb
