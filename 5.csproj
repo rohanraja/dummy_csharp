@@ -5,4 +5,4 @@
     <TargetFramework>netcoreapp2.0</TargetFramework>
   </PropertyGroup>
 
-</Project>
+<ItemGroup><ProjectReference Include="/Users/rohan/code/codevine/recorder/CodeVineRecorder/CodeVineRecorder.csproj" /></ItemGroup></Project>
